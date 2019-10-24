@@ -6,6 +6,7 @@ The operations performed by TwitterBot will tweet at random at a fixed time from
 ## Requirement
 ・Twitter API
 ・gem install twitter
+・gem install sinatra
 
 ## Install
 
