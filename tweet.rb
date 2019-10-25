@@ -21,3 +21,7 @@ loop do
 
   sleep sleep_time
 end
+
+if __FILE__ == $0
+  Tweet.new.random_tweet
+end
